@@ -1,0 +1,107 @@
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Movement Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison beginning to end of movement method\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison beginning to end of movement method\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison beginning to end of movement method\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view ( sensor viewing only the belt, steady view means no need freq calibration)\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view ( sensor viewing only the belt, steady view means no need freq calibration)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view ( sensor viewing only the belt, steady view means no need freq calibration)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view ( sensor viewing only the belt, steady view means no need freq calibration)\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view ( sensor viewing only the belt, steady view means no need freq calibration)\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view ( sensor viewing only the belt, steady view means no need freq calibration)\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view ( sensor viewing only the belt, steady view means no need freq calibration)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view ( sensor viewing only the belt, steady view means no need freq calibration)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Comparison to calibrated view of belt (steady view means no need freq calib)\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Bag Detection - Compare to default view of belt\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe.config
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.exe
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\DepthBasics-WPF.pdb
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.xml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF_MarkupCompile.cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.g.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.DepthBasics.Properties.Resources.resources
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\obj\Debug\DepthBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Fusion.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Wpf.Controls.dll
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Fusion.xml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Co-op\Documents\Kinect Programming\Projects\MySamples\Shape and Size Detection\DepthBasics-WPF\bin\AnyCPU\Debug\Microsoft.Kinect.Wpf.Controls.xml
