@@ -13,3 +13,13 @@ precise size estimations for the object as the height and widths match up.
 
 The output size information can be seen printed on the console as well as the image that the program prints.
 The grey lines display the average straight edge that was used when the program calculated the dimensions.
+
+
+Below are more images showing examples of the code's ability to detect a new object in front of it, and extract only that object's shape whilsty neglecting the surroundings along with its capabilities to detect and approximate the object's horizontal and vertical edges which was used for the purposes of size estimation.
+
+<img src="https://cloud.githubusercontent.com/assets/14356838/18962680/d11e26be-863f-11e6-82bd-daf071dd37f0.png">
+<img src="https://cloud.githubusercontent.com/assets/14356838/18962693/e0a4c048-863f-11e6-8c7c-f7ea00e0abde.png">
+<img src="https://cloud.githubusercontent.com/assets/14356838/18962686/d9745f04-863f-11e6-8e81-a4669a96563b.png">
+
+This code was built upon a generic kinect template provided by microsoft.
+Copyright of the template is of Microsoft's.
