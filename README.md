@@ -1,5 +1,6 @@
 # Kinect---Shape-and-Size-Detection
-Uses the Kinect for Windows v2 API and camera to detect if an object is placed in view of the camera(Only detects large pixel clusters to eliminate noise fault detections) and once the object is placed in view, a black and white image of the object's shape is saved plus, it's width/height dimension estimations are calculated and displayed using a formula I created 
+Uses the Kinect for Windows v2 API and camera to detect if an object is placed in view of the camera(Only detects large pixel clusters to eliminate noise fault detections) and once the object is placed in view, a black and white image of the object's shape is saved plus, it's width/height dimension estimations are calculated and displayed using a formula I created.
+The code also finds the edges of the object marked by grey lines, and the center of mass of the object marked by a grey cross.
 
 
 
